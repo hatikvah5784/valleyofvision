@@ -14,7 +14,7 @@ publishDir = "docs"
 home = ["HTML", "RSS", "Algolia"]
 
 [params]
-  header_image = "img/home-bg-jeep.jpg"
+  header_image = "img/valley.jpg"
   SEOTitle = "异象谷 | Valley of Vision"
   description = "异象谷"
   keyword = ""
