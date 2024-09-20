@@ -1,5 +1,5 @@
 baseurl = "https://zhaohuabing.com"
-title = "异象谷"
+title = "异象之谷"
 theme = "hugo-theme-cleanwhite"
 languageCode = "en-us"
 # Enable comments by entering your Disqus shortname
@@ -15,8 +15,8 @@ home = ["HTML", "RSS", "Algolia"]
 
 [params]
   header_image = "img/valley.jpg"
-  SEOTitle = "异象谷 | Valley of Vision"
-  description = "异象谷"
+  SEOTitle = "异象之谷 | Valley of Vision"
+  description = "异象之谷"
   keyword = ""
   slogan = "Valley of Vision גיא	חזיון"
   upstreamAttribution = true
